@@ -1,3 +1,5 @@
+<img src="new-aura-banner.png">
+
 # 🚀 Aura Open Source Hub
 
 Benvenuto/a nella **repository centrale open-source dell’ecosistema Aura**.
@@ -27,6 +29,7 @@ L’obiettivo di questo hub è mantenere tutto semplice, ordinato e accessibile:
 | Aura Docs | https://github.com/madebyanto/auradocs | https://docs.aurastudioitalia.it | Documentazione centralizzata per tutto l’ecosistema Aura. |
 | Aura Tasks | https://github.com/madebyanto/auratasks | https://tasks.aurastudioitalia.it | Gestione task semplice e organizzata per team e progetti. |
 | Aura Calendar | https://github.com/madebyanto/auracalendar | https://calendar.aurastudioitalia.it | Calendario personale e collaborativo con sincronizzazione. |
+| Aura Chat | (ancora non disponibile) | (ancora non disponibile) | Calendario personale e collaborativo con sincronizzazione. |
 | Aura Launchboard | https://github.com/madebyanto/aura-launchboard | https://apps.aurastudioitalia.it | Dashboard centrale per accedere a tutti i servizi Aura. |
 | Nyra | https://github.com/madebyanto/nyra-website | https://nyra.aurastudioitalia.it/app | Assistente AI ufficiale dell’ecosistema Aura. |
 | Aura Website | https://github.com/madebyanto/aurastudioitalia | https://aurastudioitalia.it | Sito principale ufficiale di Aura. |
