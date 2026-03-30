@@ -1,4 +1,8 @@
-<img src="new-aura-banner.png">
+<div align="left">
+  <img src="new-aura-banner.png" 
+       style="width: 80%; max-width: 900px; border-radius: 80px;" 
+       alt="Aura Banner">
+</div>
 
 # 🚀 Aura Open Source Hub
 
