@@ -39,7 +39,7 @@ L’obiettivo di questo hub è mantenere tutto semplice, ordinato e accessibile:
 | Aura Website | https://github.com/madebyanto/aurastudioitalia | https://aurastudioitalia.it | Sito principale ufficiale di Aura. |
 | Aura Store | https://github.com/madebyanto/aura-store | https://store.aurastudioitalia.it | Store ufficiale per app e strumenti Aura. |
 | ACM (Legacy) | https://github.com/madebyanto/pctool.aura | (non disponibile) | Tool legacy per monitoraggio PC. Non più supportato. |
-
+| CoreTune | https://github.com/madebyanto/coretune | Tool sviluppato in Python per ottimizzazione profonda e reale di PC Windows. |
 ---
 
 ## 🔒 Filosofia del progetto
