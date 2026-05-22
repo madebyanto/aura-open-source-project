@@ -30,7 +30,7 @@ L’obiettivo di questo hub è mantenere tutto semplice, ordinato e accessibile:
 
 | Nome Servizio | Repository | Servizio Live | Descrizione |
 |----------------|------------|----------------|-------------|
-| Aura Docs | https://github.com/madebyanto/auradocs | https://docs.aurastudioitalia.it | Documentazione centralizzata per tutto l’ecosistema Aura. |
+| Aura Docs | https://github.com/madebyanto/auradocs | https://docs.aurastudioitalia.it | Gestione documenti avanzata sul cloud. |
 | Aura Tasks | https://github.com/madebyanto/auratasks | https://tasks.aurastudioitalia.it | Gestione task semplice e organizzata per team e progetti. |
 | Aura Calendar | https://github.com/madebyanto/auracalendar | https://calendar.aurastudioitalia.it | Calendario personale e collaborativo con sincronizzazione. |
 | Aura Chat | (ancora non disponibile) | (ancora non disponibile) | Calendario personale e collaborativo con sincronizzazione. |
